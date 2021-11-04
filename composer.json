@@ -1,0 +1,10 @@
+{
+    "name": "zoomyboy/scoutnet-api",
+    "authors": [
+        {
+            "name": "Philipp Lang",
+            "email": "philipp.lang@dpsg-koeln.de"
+        }
+    ],
+    "require": {}
+}
