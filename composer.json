@@ -6,5 +6,8 @@
             "email": "philipp.lang@dpsg-koeln.de"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files": ["src/scoutnet.php"]
+    }
 }
